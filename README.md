@@ -1,1 +1,1 @@
-# icense-server
+# license-server
